@@ -1,5 +1,5 @@
 import React from 'react'
-import { s, ms } from 'react-native-size-matters'
+import { s, ms,mvs } from 'react-native-size-matters'
 import { ThemeColors } from '../../Constants/Colors'
 import { TouchableOpacity, Text, View } from 'react-native'
 
